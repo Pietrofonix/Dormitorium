@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c0ff82d0de639aa4ea0d11e5aeb97122
+  - enabled: 1
+    path: Assets/Scenes/000.unity
+    guid: 37015c3dd629d5d4fbc4cf78b9904d4f
+  - enabled: 1
+    path: Assets/Scenes/Stanza1.unity
+    guid: 276c1fcc25bfa1749b9f87f81cd69552
+  - enabled: 1
+    path: Assets/Scenes/Stanza2.unity
+    guid: 5acb061f3cf612743b8bb39d8256ede1
+  - enabled: 1
+    path: Assets/Scenes/Stanza3.unity
+    guid: e488de95c737b3a46927d106fd2d258b
+  - enabled: 1
+    path: Assets/Scenes/Stanza4.unity
+    guid: 66772fd04b3d7c9499b7324e1b451dc9
+  - enabled: 1
+    path: Assets/Scenes/Stanza5.unity
+    guid: 07ec8da27c11ad84e87854d7ba78a55a
+  - enabled: 1
+    path: Assets/Scenes/Stanza6.unity
+    guid: 3fd485e310199d9429a161e043f2e540
+  - enabled: 1
+    path: Assets/Scenes/Stanza7.unity
+    guid: 44e487bf3f8673241955f79c3e3c8a8a
+  - enabled: 1
+    path: Assets/Scenes/Stanza8.unity
+    guid: e94fd273691db2d4cb6d39506b01bdbc
+  - enabled: 1
+    path: Assets/Scenes/UpHallway.unity
+    guid: 742a5374dae72334593f2fadeba3f937
+  - enabled: 1
+    path: Assets/Scenes/Piano_terra.unity
+    guid: aa6576f446cc9de4b8f08eff78682afd
+  - enabled: 1
+    path: Assets/Scenes/Dispensa.unity
+    guid: 94551b05008b8f145ba597e62a10db9d
+  - enabled: 1
+    path: Assets/Scenes/BagnoPianoTerra.unity
+    guid: 61736895edf492b46a655d7f5f09643f
+  - enabled: 1
+    path: Assets/Scenes/BagnoSopraDX.unity
+    guid: 6661f2eae51753b4e8900b0a2fe6a516
+  - enabled: 1
+    path: Assets/Scenes/BagnoSopraSX.unity
+    guid: f444095c0499d6a44a54007fed48a0a1
+  - enabled: 1
+    path: Assets/Scenes/BagnoSopraDX 1.unity
+    guid: 1ff6a610defe5e749920f06261724364
+  - enabled: 1
+    path: Assets/Scenes/BagnoSopraSX 1.unity
+    guid: 0dace95ee23b873408f3c2132bd5bc26
+  - enabled: 1
+    path: Assets/Scenes/Cucina.unity
+    guid: 2a3e4ab5fbbf01e469e5e058db2e5c25
+  - enabled: 1
+    path: Assets/Scenes/Mensa.unity
+    guid: 3f04f4c21ab56434bbb8f58d175161bb
+  - enabled: 1
+    path: Assets/Scenes/SalaRiunioni.unity
+    guid: 045073bf115e57b4e8897c45eeb0e468
+  - enabled: 1
+    path: Assets/Scenes/Segreteria.unity
+    guid: 97a6f811805126c4cbeba46971cc070e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: aa91f4a4afd71b54d8b712a7d5138fb8
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: e7afd623a3d8a174396557f4e1c61fc8
+  m_configObjects: {}
